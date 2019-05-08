@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohzeepeek.hellostanley.com/sitemap.xml
